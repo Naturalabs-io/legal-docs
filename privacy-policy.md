@@ -103,7 +103,8 @@ We may update this Privacy Policy from time to time. We will notify you of any m
 
 If you have questions about this Privacy Policy or wish to exercise your privacy rights, contact us at:
 
-**Email:** privacy@naturalabs.io
+**Email:** dev@naturalabs.io
 
 Natura Labs LLC
 Wyoming, USA
+
