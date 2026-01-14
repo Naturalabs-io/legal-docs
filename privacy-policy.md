@@ -1,65 +1,109 @@
 # Privacy Policy
 
-**Last updated:** January 13, 2026
+_Last updated: January 2026_
 
 ## 1. Introduction
 
-Welcome to The Lab. We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our services.
+Natura Labs LLC ("we," "us," or "our") is a company registered in Wyoming, USA. This Privacy Policy explains how we collect, use, store, and protect information across our products and services.
 
-## 2. Information We Collect
+By using our services, you agree to the collection and use of information in accordance with this policy and any applicable service agreement.
 
-### 2.1 Information You Provide
-- Account information (name, email address)
-- Profile information
-- Communications with us
+## 2. Our Products
 
-### 2.2 Information Collected Automatically
-- Device information (device type, operating system)
-- Usage data (features used, interactions)
-- Log data (IP address, access times)
+This Privacy Policy covers the following products operated by Natura Labs LLC:
 
-## 3. How We Use Your Information
+- **The Lab** — Marketing analytics and campaign optimization platform
 
-We use the collected information to:
-- Provide, maintain, and improve our services
-- Communicate with you about updates and support
-- Ensure security and prevent fraud
-- Comply with legal obligations
+## 3. General Practices
 
-## 4. Data Sharing
+The following practices apply to all Natura Labs products.
 
-We do not sell your personal information. We may share data with:
-- Service providers who assist in our operations
-- Legal authorities when required by law
-- Business partners with your consent
+### 3.1 Data Storage and Security
 
-## 5. Data Security
+We take the security of your data seriously. Our security measures include:
 
-We implement appropriate technical and organizational measures to protect your personal data against unauthorized access, alteration, disclosure, or destruction.
+- All data transmitted over HTTPS (TLS encryption)
+- Database encryption at rest
+- Authentication via Google OAuth
+- Infrastructure hosted on Google Cloud Platform (US-Central1 region)
 
-## 6. Your Rights
+### 3.2 Data Sharing
 
-You have the right to:
-- Access your personal data
-- Correct inaccurate data
-- Request deletion of your data
-- Object to data processing
-- Data portability
+We do not sell your personal information. We process data internally to provide and improve our services. We may share information only:
 
-## 7. Cookies
+- With service providers necessary to operate our infrastructure
+- When required by law or valid legal process
+- As specified in your service agreement
 
-We use cookies and similar technologies to enhance your experience. You can manage cookie preferences through your browser settings.
+### 3.3 Your Rights
 
-## 8. Children's Privacy
+If you are a California resident, you have rights under the California Consumer Privacy Act (CCPA), including:
 
-Our services are not intended for children under 13. We do not knowingly collect personal information from children.
+- The right to know what personal information we collect
+- The right to request deletion of your data
+- The right to opt-out of the sale of personal information (we do not sell data)
+- The right to non-discrimination for exercising your rights
 
-## 9. Changes to This Policy
+To exercise these rights, contact us at privacy@naturalabs.io.
 
-We may update this privacy policy from time to time. We will notify you of any significant changes by posting the new policy on this page.
+### 3.4 Cookies
 
-## 10. Contact Us
+We use minimal cookies strictly necessary for authentication and session management via Google OAuth. We do not use tracking or advertising cookies.
 
-If you have questions about this privacy policy, please contact us at:
+### 3.5 Children's Privacy
 
-**Email:** privacy@thelab.com
+Our services are not directed to individuals under 18. We do not knowingly collect personal information from children.
+
+## 4. The Lab
+
+This section describes data practices specific to The Lab platform.
+
+### 4.1 Information We Collect
+
+The Lab collects information through integrations with third-party platforms. When you install our apps or connect your accounts, we may collect:
+
+**From Meta Ads:**
+- Campaign information
+- Budget data
+- Ad sets and ads
+- Campaign performance metrics
+
+**From Google Ads:**
+- OAuth authentication data
+
+**From Shopify:**
+- Product information
+- Inventory data
+- Order information
+
+We do not collect personal information about your end customers.
+
+### 4.2 How We Use Your Information
+
+We use the information collected through The Lab to:
+
+- Analyze campaign performance
+- Provide optimization recommendations
+- Generate reports and insights
+- Improve our AI-powered analytics
+
+We may use aggregated and anonymized data to improve our algorithms and services.
+
+### 4.3 Data Retention
+
+Data collected through The Lab is retained while the relevant integration (app) remains installed or connected. Upon removal of an integration or termination of your service agreement, associated data is deleted.
+
+Specific data retention terms may be defined in your service agreement with Natura Labs.
+
+## 5. Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the new policy on this page and updating the "Last updated" date.
+
+## 6. Contact Us
+
+If you have questions about this Privacy Policy or wish to exercise your privacy rights, contact us at:
+
+**Email:** privacy@naturalabs.io
+
+Natura Labs LLC
+Wyoming, USA
