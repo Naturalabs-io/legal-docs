@@ -44,7 +44,7 @@ If you are a California resident, you have rights under the California Consumer 
 - The right to opt-out of the sale of personal information (we do not sell data)
 - The right to non-discrimination for exercising your rights
 
-To exercise these rights, contact us at privacy@naturalabs.io.
+To exercise these rights, contact us at ethan@naturalabs.io.
 
 ### 3.4 Cookies
 
@@ -103,8 +103,9 @@ We may update this Privacy Policy from time to time. We will notify you of any m
 
 If you have questions about this Privacy Policy or wish to exercise your privacy rights, contact us at:
 
-**Email:** dev@naturalabs.io
+**Email:** ethan@naturalabs.io
 
 Natura Labs LLC
 Wyoming, USA
+
 
